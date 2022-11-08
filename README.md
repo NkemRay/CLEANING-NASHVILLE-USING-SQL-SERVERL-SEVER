@@ -1,4 +1,4 @@
-# CLEANING-NASHVILLE-HOUSING-DATASET-USING-SQL-SERVERL-SEVER
+# CLEANING-NASHVILLE-HOUSING-DATASET-USING-SQL-SEVER
 These project was conducted to improve my data cleaning skills and further create  a clean dataset that is useable for analysis.
 The dataset was gotten from kaggle and imported into the sql sever.
 The data cleaning process includes;
