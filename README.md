@@ -7,5 +7,5 @@ The data cleaning process includes;
  3. populated some columns with null values using the primary key as a reference.
  4. Breaking out `columns with multiple information into individual columns
  5. Removed duplicates
- 6. Deleted unused columns
-with these few steps, the dataset was cleaned up and ready for analysis. 
+ 6. Deleted unused columns.
+With these few steps, the dataset was cleaned up and ready for analysis. 
