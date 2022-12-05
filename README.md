@@ -9,3 +9,8 @@ The data cleaning process includes;
  5. Removed duplicates
  6. Deleted unused columns.
 With these few steps, the dataset was cleaned up and ready for analysis. 
+
+
+Below is the link to the data Visualization on tableau
+
+https://public.tableau.com/app/profile/racheal.ogbozor1965/viz/NASHEVIELLEHOUSINGDATAVISUALS/Dashboard1
